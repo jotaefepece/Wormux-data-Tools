@@ -35,8 +35,8 @@ Descargar APKs:
 |----------------------|--------------------------|
 | ![](Capturas/captura-celular-enviando-datos.png) | ![](Capturas/registro-datos-en-terminal.png) |
 
-|  Modo Wormux  |  Iconos  |
-|---------------|----------|
+|   Modo Wormux   |  Modo data XY  |
+|-----------------|----------------|
 | ![](Capturas/icono-wormux-enviando-texto.png) | ![](Capturas/icono-apk-datos-xy.png) |
 
 ---

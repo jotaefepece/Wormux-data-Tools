@@ -1,25 +1,26 @@
-# 🐛 Wormux Data Tools 🐛 
+# 🐛Wormux Data Tools🐛 
 
-Small collection of TCP tools for testing, experimenting… and a bit of chaos.
+Colección de herramientas TCP para pruebas, experimentación… 
+y un poco de caos.
 
 ---
 
-## Tools
+## Herramientas
 
 - **XPaTCPfull**  
-  TCP 1-to-1 communication
+  Comunicación TCP 1 a 1
 
 - **dataXYaTCP**  
-  Send data to multiple clients (1-to-many)
+  Envío de datos a múltiples clientes (1 a muchos)
 
 - **WormuxTCP**  
-  Random messages + random timing per client
+  Envío de mensajes aleatorios con tiempos aleatorios por cliente
 
 ---
 
-## Downloads
+## Descargas
 
-Click to download APKs:
+Descargar APKs:
 
 - [⬇️ XPaTCPfull](Apps/XPaTCPfull.apk)  
 - [⬇️ dataXYaTCP](Apps/dataXYaTCP.apk)  
@@ -27,33 +28,30 @@ Click to download APKs:
 
 ---
 
-## Screenshots
 
-### Sending data from mobile
-![App sending data](Capturas/captura-celular-enviando-datos.jpeg)
+## Capturas
 
-### Terminal receiving data
-![Terminal log](Capturas/registro-datos-en-terminal.png)
+|  Envío desde celular |  Recepción en terminal   |
+|----------------------|--------------------------|
+| ![](Capturas/captura-celular-enviando-datos.jpeg) | ![](Capturas/registro-datos-en-terminal.png) |
 
-### Wormux mode
-![Wormux](Capturas/icono-wormux-enviando-texto.png)
-
-### App icons
-![Icons](Capturas/icono-apk-datos-xy.png)
+|  Modo Wormux  |  Iconos  |
+|---------------|----------|
+| ![](Capturas/icono-wormux-enviando-texto.png) | ![](Capturas/icono-apk-datos-xy.png) |
 
 ---
 
-## Purpose
+## Propósito
 
-- Network testing  
-- Learning TCP/IP  
-- Multi-client experiments  
-- Controlled chaos 😄😄😄 
+- Pruebas de red  
+- Aprendizaje de TCP/IP  
+- Experimentos con múltiples clientes  
+- Caos controlado 😄😄😄  
 
 ---
 
-## Note
+## Nota
 
-For educational and experimental use only.
+Proyecto con fines educativos y experimentales.
 
 ---

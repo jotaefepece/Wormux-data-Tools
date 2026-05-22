@@ -33,7 +33,7 @@ Descargar APKs:
 
 |  Envío desde celular |  Recepción en terminal   |
 |----------------------|--------------------------|
-| ![](Capturas/captura-celular-enviando-datos.jpeg) | ![](Capturas/registro-datos-en-terminal.png) |
+| ![](Capturas/captura-celular-enviando-datos.png) | ![](Capturas/registro-datos-en-terminal.png) |
 
 |  Modo Wormux  |  Iconos  |
 |---------------|----------|

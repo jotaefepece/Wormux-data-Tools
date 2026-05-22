@@ -41,12 +41,31 @@ Descargar APKs:
 
 ---
 
+## Test para ejecución con python3:
+```import socket
+ # Cambiar IP por la que ofrece la aplicación del celular...
+HOST = "192.168.0.4" 
+PORT = 5000  ## Cambiar puerto según App
+
+with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+    s.connect((HOST, PORT))
+    print("Conectado! Moviendo el celular...\n")
+
+    while True:
+        data = s.recv(1024).decode('utf-8').strip()
+        if data:
+            print(data)
+```
+
+
+---
+
 ## Propósito
 
 - Pruebas de red  
 - Aprendizaje de TCP/IP  
 - Experimentos con múltiples clientes  
-- Caos controlado 😄😄😄  
+- Caos controlado 
 
 ---
 
